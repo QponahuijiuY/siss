@@ -1,0 +1,51 @@
+@charset "UTF-8";
+th{background-color:pink;}
+.bg1{
+	background-color:skyblue;border-width:2px;border-color:black;border-style:groove;
+	border-radius:10px;padding:0;margin:0 15px;
+	width:200px;height:auto;float:left;filter:opacity(0.9);
+}
+.bg2{
+	background-color:skyblue;border-width:2px;border-color:black;border-style:groove;
+	border-radius:10px;padding:15px;margin:0 15px;
+	width:75%;height:auto;float:left;text-align:center;filter:opacity(0.9);
+}
+.button:hover{background-color:#FFFFFF;}
+.button { /* 按钮美化 */
+	width: 150px; /* 宽度 */
+	height: 30px; /* 高度 */
+	border-width: 0px; /* 边框宽度 */
+	border-radius: 10px; /* 边框半径 */
+	background: pink; /* 背景颜色 */
+	cursor: pointer; /* 鼠标移入按钮范围时出现手势 */
+	outline: none; /* 不显示轮廓线 */
+	font-family: Microsoft YaHei; /* 设置字体 */
+	color: black; /* 字体颜色 */
+	font-size: 14px; /* 字体大小 */
+	margin-bottom:10px;
+}
+.button2:hover{background-color:#FFFFFF;}
+.button1{
+	width:auto;height:30px;
+	margin:10px 5px;border-width: 0px;background:pink;border-radius:8px;
+	cursor: pointer;outline: none;color: #000000;font-size: 14px;
+}
+.button1:hover{background-color:#FFFFFF;}
+.button2{
+	width:auto;height:30px;
+	margin:10px 5px;border-width: 0px;background:pink;border-radius:8px;
+	cursor: pointer;outline: none;color: #000000;font-size: 14px;
+}
+.text{
+	margin:5px;outline: none;
+	width:200px;height:20px;
+	border-radius:6px;
+}
+.text1{
+	margin:5px;outline: none;
+	width:50px;height:20px;
+	border-radius:6px;
+}
+.text2{
+	margin:5px;outline: none;border-radius:6px;
+}
